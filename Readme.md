@@ -1,0 +1,1 @@
+# This repo represent the mini calendar using html, css and js
